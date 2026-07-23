@@ -1,0 +1,7 @@
+Mode,Payload_Size_Bytes,Total_Messages,Avg_Response_Time_ms,Throughput_Kbps
+persistent,100,10,0.11,7272.31
+persistent,1000,10,0.076,105783.2
+persistent,10000,10,0.23,348545.05
+new_connection,100,10,0.168,4748.04
+new_connection,1000,10,0.162,49526.84
+new_connection,10000,10,0.197,407115.17

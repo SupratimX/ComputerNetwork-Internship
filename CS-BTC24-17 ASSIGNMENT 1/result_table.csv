@@ -1,0 +1,5 @@
+roll_no,name,loss_percent,timeout,total_messages,total_packets_sent,total_retransmissions,transfer_time_seconds,status
+CS-BTC24-17,SUPRATIM GOGOI,0,1.2,10,10,0,1.207,SUCCESS
+CS-BTC24-17,SUPRATIM GOGOI,0,1.2,10,11,1,2.4065,SUCCESS
+CS-BTC24-17,SUPRATIM GOGOI,5,1.2,10,10,0,1.3268,SUCCESS
+CS-BTC24-17,SUPRATIM GOGOI,5,1.2,10,15,5,7.2299,SUCCESS
